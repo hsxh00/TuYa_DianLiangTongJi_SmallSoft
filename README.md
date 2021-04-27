@@ -1,5 +1,3 @@
-这个项目是使用Tuya SDK开发的，它使您能够快速开发连接和控制许多设备的智能场景的品牌应用程序。
-![jt](https://github.com/hsxh00/TuYa_DianLiangTongJi_SmallSoft/raw/master/jt.jpg "页面截图") 
 
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.
 
@@ -8,6 +6,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 For more information, please check Tuya Developer Website.
 
 
+![jt](https://github.com/hsxh00/TuYa_DianLiangTongJi_SmallSoft/raw/master/jt.jpg "页面截图") 
 
 
 ## Note: This repository is inherited from the old Tuya Github repository: xxxxxx, which will be deprecated soon. Please use this repository for Tuya SDK development instead. For changing the existing remote repository URL, please check this tutorial: https://github.com/TuyaInc/tuya-weapp-demo

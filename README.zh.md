@@ -1,12 +1,12 @@
 这个项目是使用Tuya SDK开发的，它使您能够快速开发连接和控制许多设备的智能场景的品牌应用程序。
-![jt](https://github.com/hsxh00/TuYa_DianLiangTongJi_SmallSoft/raw/master/jt.jpg "页面截图") 
-
-
-
 
 
 
 欲了解更多信息，请查看涂鸦开发者网站。
+
+
+![jt](https://github.com/hsxh00/TuYa_DianLiangTongJi_SmallSoft/raw/master/jt.jpg "页面截图") 
+
 
 
 
